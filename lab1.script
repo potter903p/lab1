@@ -1,0 +1,14 @@
+Script started on 2015年03月10日 (週二) 17時33分39秒
+]0;F74034106@2015cpp: ~F74034106@2015cpp:~$ git clone https://github.com/<your github account>/lab1.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript lab1.script[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krm -r testls[K[1Pyrm testls[Kcd ..testls[Kmkdir testls[Kpasswdadgit config -l[3Pwhoami;pwd
+F74034106
+/home/F74034106
+]0;F74034106@2015cpp: ~F74034106@2015cpp:~$ whoami;pwdgit clone https://github.com/<your github account>/lab1.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript lab1.script[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/<your github account>/lab1.git [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhoami;pwd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit config -l
+]0;F74034106@2015cpp: ~F74034106@2015cpp:~$ git clone https://github.com/potter903p/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74034106@2015cpp: ~F74034106@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時35分00秒
